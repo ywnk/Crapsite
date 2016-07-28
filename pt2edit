@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+div.container {
+    width: 100%;
+    border: 1px solid gray;
+}
+
+header, footer {
+    padding: 1em;
+    color: white;
+    background-color: #51f84f;
+    clear: left;
+    text-align: center;
+}
+
+nav {
+    float: left;
+    max-width: 160px;
+    margin: 0;
+    padding: 1em;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+   
+nav ul a {
+    text-decoration: none;
+}
+
+article {
+    margin-left: 170px;
+    border-left: 1px solid gray;
+    padding: 1em;
+    overflow: hidden;
+}
+
+* {
+    font-family: monospace;
+    font-style: italic;
+    font-size: 14pt;
+    
+}
+
+#1trunam {
+    font-family: serif times;
+    font-size: 20pt;
+    font-style: normal;
+    
+}
+
+body {
+    background-image: url("https://7b1a2bb8-a-62cb3a1a-s-sites.googlegroups.com/site/domaintest0000000000000/home/crap/Colorpallete2.png?attachauth=ANoY7cpjcCntZ1WqNZexiG2zIH0EnFsKyQJX9cTX2NUm574Fnau0ogK73SDOJba4mqGgSvQALaCbUULvKKLj8XsMnlFF2A3B7Gwf0MBtd7uTPFBUdMT61sL9a6V0_OSsLBPLqWyieJ0rzuBdepxuICP6YN3y6MHp2nlJ3IXKlP1yF72So4pETsTrIOG6tve6Gh6XdF1YIAyho-AW4-lOZkugZkmd0iY6FEEzsMGPNfKlSLNkM7b6e6uBPK_3QEvK8xxdMQhAQHoZ&attredirects=0");
+}
+
+</style>
+</head>
+<body>
+
+<div class="container">
+
+<header>
+    <h1 id="1trunam">Gucc</h1>
+</header>
+  
+<nav>
+  <ul>
+      <li><a href="#">Home</a></li>
+    <li><a href="#">Product</a></li>
+    <li><a href="#">Contact Us</a></li>
+  </ul>
+</nav>
+
+<article>
+  <h1>Gucc</h1>
+  <p>Gucc is the finest clothing on the market!</p>
+</article>
+
+<footer>Copyright © Gucc 2016</footer>
+
+</div>
+
+</body>
+</html>
