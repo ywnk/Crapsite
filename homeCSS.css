@@ -1,0 +1,46 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jul 26, 2016, 1:57:03 AM
+    Author     : Evan Hamilton
+*/
+*{
+    
+    
+    
+    
+    
+    
+}
+
+.bg{
+    background: url(https://sites.google.com/site/domaintest0000000000000/_/rsrc/1469522526667/home/crap/Example_tshirt.png) no-repeat center center;
+    position: fixed;
+    height: 350px;
+    width: 100%;
+    top: 0;
+    left: 0;
+    z-index: -1;
+    
+    
+}
+
+.jumbotron{
+    background: transparent;
+    height: 350px;
+    color: white;
+    text-shadow: #444 0 1px 1px;
+    
+    
+    
+}
+
+.container{
+    
+    
+    
+    
+}
